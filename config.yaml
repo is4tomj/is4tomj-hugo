@@ -1,0 +1,12 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://is4tomj.com"
+title: "is4tomj"
+copyright: "Tom Johnson"
+canonifyurls: true
+theme: "Lanyon"
+...
