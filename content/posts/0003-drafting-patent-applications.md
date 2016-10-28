@@ -1,7 +1,7 @@
 ---
 title: "Properties of a Well-Written Draft Patent Application"
 description: "Properties of a well-written draft patent application."
-date: "2016-10-28"
+date: "2016-10-25"
 categories: 
     - "Drafting"
     - "Patent Application"

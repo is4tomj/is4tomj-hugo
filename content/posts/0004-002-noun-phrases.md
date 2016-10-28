@@ -1,19 +1,14 @@
 ---
-title: "The Strict Antecedent Basis"
-description: "Strict Antecedent Basis and compilable claims."
-date: "2016-10-30"
+title: "Strict Antecedent Basis: Noun Phrases"
+description: "Instantiating and referencing noun phrases."
+date: "2016-10-27"
 categories: 
+    - "Strict Antecedent Basis"
     - "Drafting"
     - "Patent Application"
     - "Claims"
     - "Critical Skill"
 ---
-
-## Strict Antecedent Basis
-
-"It is of utmost importance that patents issue with definite claims that clearly and precisely inform persons skilled in the art of the boundaries of protected subject matter". [MPEP 2173](https://www.uspto.gov/web/offices/pac/mpep/s2173.html); see 35 U.S.C § 112(b). Unfortunately, the English language is too flexible and too complicated for many people to write a clear claim.
-
-Strict Antecedent Basis is a standard that eliminates many ambiguities caused by lazy or novice claim drafters. Strict Antecedent Basis rules are specifically tailored to clearly meet the standards of the USPTO and US law.
 
 ## Noun phrases -- the building blocks of clear claim language
 
@@ -83,14 +78,6 @@ The following claim is free of antecedent basis errors by assigning a new noun p
   receiving a first thing that includes a particular component;
   producing a second thing from the first thing by modifying the particular component;
   sending the second thing to a person.
-```
-
-### Interating through a plurlaity of things
-
-``` claim
-for each thing among a plurality of things:
-  doing a first action with the thing; 
-  doing a second action with the thing;
 ```
 
 ## Nested antecedent basis and uses of _of_
