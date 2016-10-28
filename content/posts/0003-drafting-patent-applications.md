@@ -1,6 +1,6 @@
 ---
-title: "Preparing a Well-Written Draft Patent Application"
-description: "Techniques a properties of a well-written draft patent application."
+title: "Properties of a Well-Written Draft Patent Application"
+description: "Properties of a well-written draft patent application."
 date: "2016-10-28"
 categories: 
     - "Drafting"
@@ -23,9 +23,10 @@ Boilerplate language about basic computer components or topologies should be gro
 ## Dont's:
 
 Please do not use any of the following in a draft patent application:
-- "e.g.": use "for example";
-- "i.e.";
-- Pronouns;
+
+- "e.g.",
+- "i.e.",
+- Pronouns,
 - Patent profanity.
 
 
@@ -36,4 +37,4 @@ Please do not include a Summary section that states anything other than the foll
 
 ## Claims
 
-Claims should adhere to "strict" antecedent basis rules. For example, “the <something>” should only occur after “a <something>”.  I will have a separate post defining Strict Antecedent Basis Rules with several examples.  
+Claims should adhere to Strict Antecedent Basis Rules. For example, “the \<something\>” should only occur after “a \<something\>”.  I will have a separate post that defines Strict Antecedent Basis Rules with several examples.
