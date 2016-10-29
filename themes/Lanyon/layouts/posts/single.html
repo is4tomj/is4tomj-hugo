@@ -26,7 +26,7 @@
       <h1 class="post-title">{{ .Title }}</h1>
         <section id="main">
           <h5 id="date">
-            Created: {{ .Date.Format "Jan 2, 2006" }}{{ if .Lastmod }}{{ if not (eq .Lastmod .Date) }}, modified: {{ .Lastmod.Format "Jan 2, 2006" }}{{ end }}{{ end }}
+            Created: {{ .Date.Format "Jan 2, 2006" }}{{ if .Lastmod }}{{ if not (eq .Lastmod .Date) }}; Modified: {{ .Lastmod.Format "Jan 2, 2006" }}{{ end }}{{ end }}.
           </h5>
 
           {{ .Content }}

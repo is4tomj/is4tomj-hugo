@@ -2,6 +2,7 @@
 title: "Strict Antecedent Basis: Noun Phrases"
 description: "Instantiating and referencing noun phrases."
 date: "2016-10-27"
+lastmod: "2016-10-28"
 categories: 
     - "Strict Antecedent Basis"
     - "Drafting"
@@ -35,7 +36,7 @@ The following are examples of instantiating a noun phrase with a keyword phrase 
 - `at least one thing`,
 - `at least two things`.
 
-The `each` instantiating keyword phrase is a special keyword phrase that will be discussed in detail further herein.
+The `each` instantiating keyword phrase is a special keyword phrase that is discussed in [Sets and Iteration]({{< ref "0004-003-sets-iteration.md" >}}).
 
 ### Referring to an instantiated noun phrase
 
@@ -79,8 +80,3 @@ The following claim is free of antecedent basis errors by assigning a new noun p
   producing a second thing from the first thing by modifying the particular component;
   sending the second thing to a person.
 ```
-
-## Nested antecedent basis and uses of _of_
-
-
-
