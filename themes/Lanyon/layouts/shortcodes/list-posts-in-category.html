@@ -1,6 +1,6 @@
 <ul>
   {{ $category := .Get 0 }}
-  {{ range $.Site.Pages.ByTitle }}
+  {{ range $.Site.Pages.ByDate }}
     {{ if in .Params.categories $category }}
       <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
