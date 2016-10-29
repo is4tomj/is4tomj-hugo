@@ -81,10 +81,10 @@ The following claim is free of antecedent basis errors by assigning a new noun p
    sending the second thing to a client computer.
 ```
 
-Although a noun phrase represents an immutable object, a new noun phrase should not be instantiated when an object is merely clarified.  The following is an example of a noun phrase that represents an object that is further clarified after the noun phrase was instantiated.
+Although a noun phrase represents an immutable object, a new noun phrase should not be instantiated when an object is merely further described or clarified.  The following is an example of a noun phrase that represents an object that is further clarified after the noun phrase was instantiated.
 
 ``` claim
 1. A method comprising:
-   receiving a first thing, wherein the first thing has a first component;
-   sending the first thing to a client computer.
+   receiving a thing, wherein the thing has a particular component;
+   sending the thing to a client computer.
 ```
