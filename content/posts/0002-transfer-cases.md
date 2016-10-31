@@ -29,6 +29,10 @@ For an issued U.S. Patent, filed on or after September 16, 2012, you must file t
 
 Appointment of an agent for a PCT, filed on or after September 16, 2012, may be effected by referring, in a request, demand, or separate notice, to an existing separate POA appointing that agent to represent the applicant. See [MPEP 9025](https://www.uspto.gov/web/offices/pac/mpep/mpep-9025-appx-t.html#d0e377280).
 
+[Rule 92bis](http://www.wipo.int/pct/en/texts/rules/r92bis.htm).
+[Request for the recording of a change](http://www.wipo.int/export/sites/www/pct/en/forms/ro/editable/ed_ro113.pdf).
+[MPEP 9025](https://www.uspto.gov/web/offices/pac/mpep/mpep-9025-appx-t.html#d0e377231).
+
 I am planning to file a POA using [PTO/AIA/80](https://www.uspto.gov/sites/default/files/forms/aia0080.pdf) with Parts A and B, which are the same parts that were used to transfer a pending application.  I will also file 
 
 ### Notes
