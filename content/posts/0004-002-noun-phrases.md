@@ -1,7 +1,7 @@
 ---
 title: "Strict Antecedent Basis: Noun Phrases"
 description: "Instantiating and referencing noun phrases."
-date: "2016-10-27"
+date: "2016-10-26"
 lastmod: "2016-10-28"
 categories: 
     - "Strict Antecedent Basis"

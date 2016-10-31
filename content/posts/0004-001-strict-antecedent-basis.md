@@ -1,7 +1,7 @@
 ---
 title: "Strict Antecedent Basis: Introduction"
 description: "Strict Antecedent Basis and compilable claims."
-date: "2016-10-26"
+date: "2016-10-25"
 lastmod: "2016-10-29"
 categories: 
     - "Strict Antecedent Basis"
