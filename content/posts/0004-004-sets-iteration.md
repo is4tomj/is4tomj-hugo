@@ -77,7 +77,7 @@ doing a third action with the thing and the particular widget;
 
 As seen in the example above, the reference to the thing in the last line is nonsensical, because the reference to the thing in the last line is outside the scope of the iterative block.
 
-## Multiple iterative blocks
+### Multiple iterative blocks
 
 ### Nested blocks
 
