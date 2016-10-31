@@ -18,7 +18,7 @@ __**Attention**__: courts may construe a "set" of objects as two or more objects
 
 > A "set" may comprise zero, one, or two or more elements.
 
-## The First rule of Sets — do not use sets
+## The First rule of sets — do not use sets
 
 Sets often create confusion. Do not use a set unless a set is required.
 
@@ -29,7 +29,7 @@ doing a first thing with a first object;
 doing the first thing with a second object;
 ```
 
-## Second rule of Sets – if using a set is required, then do not use "respectively" language
+## Second rule of sets – if using a set is required, then do not use "respectively" language
 
 A claim that uses a set often uses "respectively" haphazardly, and often incorrectly, throughout the claim. If two sets are needed, and each object in a first set is related to a corresponding object in a second set, then consider doing the following:
 
@@ -75,6 +75,6 @@ creating a particular widget;
 doing a third action with the thing and the particular widget;
 ```
 
-As seen in the above example, the reference to `the thing` in the last line is nonsensical, because the reference to `the thing` is outside the scope of the iterative block.
+As seen in the above example, the reference to the thing in the last line is nonsensical, because the reference to the thing in the last line is outside the scope of the iterative block.
 
 More is coming.
