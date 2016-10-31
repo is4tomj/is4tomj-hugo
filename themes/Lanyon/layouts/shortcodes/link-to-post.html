@@ -1,0 +1,2 @@
+{{ $pagelink := ref . (.Get "post")  }}
+<a href="{{ $pagelink }}">{{ .Get "title" }}</a>
