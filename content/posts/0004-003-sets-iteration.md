@@ -22,7 +22,7 @@ __**Attention**__: courts may construe a "set" of objects as two or more objects
 
 Sets often create confusion. Do not use a set unless a set is required.
 
-In most cases, use one or two objects. Using referencing multiple objects individually makes a claim clearer and broader. The following is an example:
+In most cases, use one or two objects. Referencing multiple references for multiple objects is usually clearer and broader than using sets. The following is an example:
 
 ``` claim
 doing a first thing with a first object;
