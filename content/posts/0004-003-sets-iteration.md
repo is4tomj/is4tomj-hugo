@@ -18,7 +18,7 @@ __**Attention**__: courts may construe a "set" of objects as two or more objects
 
 > A "set" may comprise zero, one, or two or more elements.
 
-## The First rule of sets — do not use sets
+## The first rule of sets — do not use sets
 
 Sets often create confusion. Do not use a set unless a set is required.
 
