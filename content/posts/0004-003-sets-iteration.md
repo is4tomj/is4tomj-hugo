@@ -69,7 +69,7 @@ The keyword phrase `each`, unlike any of the other keyword phrases that instanti
 
 ``` claim
 for each thing among a plurality of things:
-  doing a first action with the thing; 
+  doing a first action with the thing; and
   doing a second action with the thing;
 creating a particular widget;
 doing a third action with the thing and the particular widget;
