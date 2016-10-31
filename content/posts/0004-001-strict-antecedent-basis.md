@@ -13,9 +13,11 @@ categories:
 
 ## Strict Antecedent Basis
 
-"It is of utmost importance that patents issue with definite claims that clearly and precisely inform persons skilled in the art of the boundaries of protected subject matter." [MPEP 2173](https://www.uspto.gov/web/offices/pac/mpep/s2173.html); see 35 U.S.C § 112(b). Unfortunately, the English language is too flexible and too complicated for many people to write a clear claim.
+> It is of utmost importance that patents issue with definite claims that clearly and precisely inform persons skilled in the art of the boundaries of protected subject matter.
 
-Strict Antecedent Basis is a standard that eliminates many ambiguities caused by lazy or novice claim drafters. Strict Antecedent Basis rules are tailored to draft claims that clearly meet the standards of the USPTO and US law.
+[MPEP 2173](https://www.uspto.gov/web/offices/pac/mpep/s2173.html); see 35 U.S.C § 112(b). Unfortunately, the English language is too flexible and too complicated for many people to write a clear claim.
+
+Strict Antecedent Basis is a standard that eliminates many ambiguities. Strict Antecedent Basis rules are tailored to draft claims that clearly meet the standards of the USPTO and US law. A claim may still be valid and clear without adhering to Strict Antecedent Basis.
 
 Definite claims do not mean narrow claims, and indefinite or ambiguous claims do not mean broad claims. A good patent practitioner drafts claims that are both definite and broad. 
 
