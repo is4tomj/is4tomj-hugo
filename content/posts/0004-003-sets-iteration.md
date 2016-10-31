@@ -75,6 +75,6 @@ creating a particular widget;
 doing a third action with the thing and the particular widget;
 ```
 
-As seen in the above example, the reference to the thing in the last line is nonsensical, because the reference to the thing in the last line is outside the scope of the iterative block.
+As seen in the example above, the reference to the thing in the last line is nonsensical, because the reference to the thing in the last line is outside the scope of the iterative block.
 
 More is coming.
