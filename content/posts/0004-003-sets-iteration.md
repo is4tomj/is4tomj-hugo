@@ -19,4 +19,4 @@ for each thing among a plurality of things:
   doing a second action with the thing;
 ```
 
-Obviously much more is coming here.
+More is coming here.

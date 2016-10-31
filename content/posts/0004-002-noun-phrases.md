@@ -11,6 +11,7 @@ categories:
     - "Critical Skill"
 ---
 
+
 ## Noun phrases -- the building blocks of clear claim language
 
 A noun phrase is a word or group of words that functions in a sentence as subject, object, or prepositional object. A noun phrase in a claim should be clearly defined so that future references to the noun phrase are easily recognized.
@@ -21,7 +22,7 @@ A noun phrase should be instantiated only once in a claim using one keyword phra
 
 - `a`,
 - `an`,
-- `one|two|𝑥`,
+- `one|two|`,
 - `at least`,
 - `each`.
 
@@ -40,7 +41,7 @@ The `each` instantiating keyword phrase is a special keyword phrase that is disc
 
 ### Referring to an instantiated noun phrase
 
- After a noun phrase is instantiated, the `the` keyword phrase should be used to reference the noun phrase exactly as the noun phrase is instantiated. The following are examples of referring to an instantiated noun phrase:
+Use the `the` keyword phrase to reference a noun phrase exactly as instantiated. The following are examples of referencing an instantiated noun phrase:
 
 - `the first thing`,
 - `the second thing`,
@@ -51,7 +52,7 @@ The `each` instantiating keyword phrase is a special keyword phrase that is disc
 - `the at least one thing`,
 - `the at least two things`.
 
-A noun phrase should not be referenced using a modifier, such as an adjective.  For example, if a claims includes `receiving a thing`, then `the thing` should **not** be referenced as `the received thing` in the claim.
+A noun phrase should not be referenced using a modifier, such as an adjective.  For example, if a claim includes `receiving a thing`, then `the thing` should __**not**__ be referenced as `the received thing` in the claim.
 
 ### A noun phrase references an immutable object
 
@@ -67,21 +68,23 @@ Do not make a noun phrase ambiguous by referring to two objects with the same no
 
 ``` claim
 1. A method comprising:
-   receiving a thing that includes a partiuclar component;
-   modifying the particular component included in the thing;
+   receiving a thing that includes an original component;
+   modifying the original component included in the thing;
    sending the thing to a client computer.
 ```
 
-The following claim is free of antecedent basis errors by assigning a new noun phrase to a modified object:
+Some may argue that sending `the thing` clearly means sending `the thing` with a new component from a previous component included in `the claim`. However, that logic requires steps in a claim to have a rigid order, and someone could invent around the claimed invention by merely performing two or more steps in a different order. Furthermore, in a long or subsequent dependent claim, a reader may also have a hard time determining whether a reference to `the thing` is referring to `the thing` with the previous component or the new component. 
+
+The following claim is free of antecedent basis errors by assigning a new noun phrase to a new object created by modifying an original object:
 
 ``` claim
 1. A method comprising:
    receiving a first thing that includes a particular component;
    producing a second thing from the first thing by modifying the particular component;
    sending the second thing to a client computer.
-```
+``` 
 
-### A new noun phrase should not be instantiated for further characterization, clarification, or description
+### Do not instantiate a new noun phrase for further characterization, clarification, or description of an underlying component.
 
 Although a noun phrase represents an immutable object, a new noun phrase should not be instantiated when an object is merely further characterized, clarified, or described.  The following is an example of a noun phrase that represents an object that is further described after the noun phrase was instantiated.
 
