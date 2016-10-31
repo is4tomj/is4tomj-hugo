@@ -2,7 +2,7 @@
 title: "Strict Antecedent Basis: Sets and Iteration"
 description: "Working with sets of objects and iterating through a set of objects."
 date: "2016-10-28"
-lastmod: "2016-10-30"
+lastmod: "2016-10-31"
 categories: 
     - "Strict Antecedent Basis"
     - "Drafting"
