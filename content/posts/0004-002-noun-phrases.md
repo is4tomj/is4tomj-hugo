@@ -37,7 +37,7 @@ The following are examples of instantiating a noun phrase with a keyword phrase 
 - `at least one thing`,
 - `at least two things`.
 
-The `each` instantiating keyword phrase is a special keyword phrase that is discussed in [Sets and Iteration]({{< ref "0004-003-sets-iteration.md" >}}).
+The `each` instantiating keyword phrase is a special keyword phrase that is discussed in [Sets and Iteration]({{< ref "0004-004-sets-iteration.md" >}}).
 
 ### Referring to an instantiated noun phrase
 
