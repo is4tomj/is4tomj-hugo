@@ -5,9 +5,8 @@ publishdate: "2016-11-01"
 draft: false
 date: "2016-11-01"
 categories: 
-    - "USPTO"
-    - "Private Pair"
-    - "Customer Number"
+    - "Patents"
+    - "Drafting"
 ---
 
 A patent specification should be as detailed as possible, including as many specific examples and embodiments as possible. However, the claims in the patent should be as broad as possible.
