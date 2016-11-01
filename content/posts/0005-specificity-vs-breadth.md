@@ -1,5 +1,5 @@
 ---
-title: "Patent Drafting: Detailed and Broad"
+title: "Patent Drafting: Detailed and Broad, Never Vague"
 description: "Patents should be both clear and detailed with broad claims, but never vague."
 publishdate: "2016-11-01"
 draft: false
