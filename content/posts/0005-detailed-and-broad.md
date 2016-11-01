@@ -17,5 +17,5 @@ One of my biggest pet peeves is when a patent practitioner that should have a ku
 
 This statement confuses and frustrates the layperson. I am sure Gene Quinn understands this topic well, but for whatever reason, his statement is confusing.
 
-To be clear: Nothing in a patent should be vague—ever. The claims should be broad, definite, and clear ([see Strict Antecedent Basis](posts/sab-intro)), but never vague. The specification should also be clear with as many embodiments with concrete examples as possible.
+To be clear: Nothing in a patent should be vague—ever. The claims should be broad, definite, and clear ([see Strict Antecedent Basis](posts/sab-intro)), but never vague. The specification should also be clear with as many embodiments and concrete examples as possible.
 
