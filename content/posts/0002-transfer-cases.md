@@ -1,6 +1,8 @@
 ---
 title: "Transfer representation for a case before the USPTO to a different agent or attorney for an application filed on or after September 16, 2012"
 description: "Documents to file to transfer represenation before the USPTO to a different agent or attorny."
+publishdate: "2016-10-28"
+draft: false
 date: "2016-10-01"
 lastmod: "2016-10-26"
 categories: 

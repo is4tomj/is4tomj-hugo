@@ -1,6 +1,9 @@
 ---
 title: "Strict Antecedent Basis: Noun Phrases"
 description: "Instantiating and referencing noun phrases."
+url: "posts/sab-noun-phrases"
+publishdate: "2016-10-28"
+draft: false
 date: "2016-10-26"
 lastmod: "2016-10-28"
 categories: 
@@ -11,6 +14,7 @@ categories:
     - "Critical Skill"
 ---
 
+{{< post-construction-header >}}
 
 ## Noun phrases -- the building blocks of clear claim language
 
@@ -37,7 +41,7 @@ The following are examples of instantiating a noun phrase with a keyword phrase 
 - `at least one thing`,
 - `at least two things`.
 
-The `each` instantiating keyword phrase is a special keyword phrase that is discussed in [Sets and Iteration]({{< ref "0004-004-sets-iteration.md" >}}).
+The `each` instantiating keyword phrase is a special keyword phrase that is discussed in [Sets and Iteration](/posts/sab-sets-and-iteration).
 
 ### Referring to an instantiated noun phrase
 

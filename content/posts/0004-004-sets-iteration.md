@@ -1,6 +1,9 @@
 ---
 title: "Strict Antecedent Basis: Sets and Iteration"
 description: "Working with sets of objects and iterating through a set of objects."
+url: "posts/sab-sets-and-iteration"
+publishdate: "2016-10-28"
+draft: false
 date: "2016-10-28"
 lastmod: "2016-10-31"
 categories: 
@@ -11,6 +14,7 @@ categories:
     - "Critical Skill"
 ---
 
+{{< post-construction-header >}}
 
 ## Sets
 

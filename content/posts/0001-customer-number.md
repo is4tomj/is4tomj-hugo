@@ -1,6 +1,8 @@
 ---
 title: "Register and use a New Customer Number with the USPTO"
 description: "Registering and using a new Customer Number with the USPTO."
+publishdate: "2016-10-28"
+draft: false
 date: "2016-09-26"
 categories: 
     - "USPTO"

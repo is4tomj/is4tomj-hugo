@@ -1,6 +1,9 @@
 ---
 title: "Strict Antecedent Basis: Introduction"
 description: "Strict Antecedent Basis and compilable claims."
+url: "posts/sab-intro"
+publishdate: "2016-10-28"
+draft: false
 date: "2016-10-25"
 lastmod: "2016-10-29"
 categories: 
@@ -11,9 +14,11 @@ categories:
     - "Critical Skill"
 ---
 
+{{< post-construction-header >}}
+
 ## Strict Antecedent Basis
 
-> It is of utmost importance that patents issue with definite claims that clearly and precisely inform persons skilled in the art of the boundaries of protected subject matter.
+> "It is of utmost importance that patents issue with definite claims that clearly and precisely inform persons skilled in the art of the boundaries of protected subject matter."
 
 [MPEP 2173](https://www.uspto.gov/web/offices/pac/mpep/s2173.html); see 35 U.S.C § 112(b). Unfortunately, the English language is too flexible and too complicated for many people to write a clear claim.
 
