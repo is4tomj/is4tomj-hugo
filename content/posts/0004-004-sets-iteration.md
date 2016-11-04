@@ -37,7 +37,7 @@ doing the first thing with a second object;
 
 Sets should be sets of common objects. Each object in a set should have common properties or be part of the same steps. Do not create ambiguity by using clumsy language like, "ones of a set"—ew.
 
-To refer to a subset of a set, instantiate a new noun phrase for the subset.  Although a subset can include all objects in a set, courts are usually made up of technically ignorant judges. So use the `one or more` keyword phrase to instantiate a noun phrase to represent a subset of some or all of the objects in a set. The following is an example of using a set and a subset:
+To refer to a subset of a set, instantiate a new noun phrase for the subset.  Although a subset can include all objects in a set, courts are usually made up of technically ignorant judges. So, use the `one or more` keyword phrase to instantiate a noun phrase to represent a subset of some or all of the objects in a set. The following is an example of using a set and a subset:
 
 ``` claim
 receiving a set of things;
