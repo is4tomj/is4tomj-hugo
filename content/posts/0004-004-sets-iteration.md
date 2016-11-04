@@ -5,7 +5,7 @@ url: "posts/sab-sets-and-iteration"
 publishdate: "2016-10-28"
 draft: false
 date: "2016-10-28"
-lastmod: "2016-11-4"
+lastmod: "2016-11-04"
 categories: 
     - "Strict Antecedent Basis"
     - "Drafting"
