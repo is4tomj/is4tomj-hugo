@@ -33,7 +33,21 @@ doing a first thing with a first object;
 doing the first thing with a second object;
 ```
 
-## Second rule of sets – if using a set is required, then do not use "respectively" language
+## Second rule of sets – if using a set is required, then each thing in the set should have the same properties or actions
+
+Sets should be sets of common objects. Each object in a set should have the same properties or be part of the same steps. Do not create ambiguity by using clumsy language like, "ones of a set"—ew.
+
+To refer to a subset of a set, instantiate a new noun phrase for the subset.  Although a subset can include all objects in a set, courts are usually made up of technically ignorant judges. So use the `one or more` keyword phrase to instantiate a noun phrase to represent a subset of some or all of the objects in a set. The following is an example of using a set and a subset:
+
+``` claim
+receiving a set of things;
+determining one or more first things of the set of things has a first property;
+determining one or more second things of the set of things has a second property;
+for each thing in the one or more first things, doing a first action;
+for each thing in the one or more second things, doing a second action;
+```
+
+## Avoid "respectively"
 
 A claim that uses a set often uses "respectively" haphazardly, and often incorrectly, throughout the claim. If two sets are needed, and each object in a first set is related to a corresponding object in a second set, then consider doing the following:
 
