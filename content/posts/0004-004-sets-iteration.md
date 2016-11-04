@@ -49,7 +49,7 @@ for each thing in the one or more second things, doing a second action;
 
 ## Avoid using the word "respectively"
 
-A claim that uses a set often uses "respectively" haphazardly, and often incorrectly, throughout the claim. If two sets are needed, and each object in a first set is related to a corresponding object in a second set, then consider doing the following:
+A claim that uses a set often uses "respectively" haphazardly, and often incorrectly. If two sets are needed, and each object in a first set is related to a corresponding object in a second set, then consider doing the following:
 
 ``` claims
 A method comprising:
