@@ -22,9 +22,9 @@ __**Attention**__: courts may construe a "set" of objects as two or more objects
 
 > A "set" may comprise zero, one, or two or more elements.
 
-## The first rule of sets — do not use sets
+## First rule of sets
 
-Sets often create confusion. Do not use a set unless a set is required.
+The first rule of sets is—__*do not use sets*__! Sets often create confusion. Do not use a set unless a set is required.
 
 In many cases, you can use one or two objects rather than a set. Referencing multiple references for multiple objects is usually clearer and broader than using sets. The following is an example:
 
@@ -33,9 +33,12 @@ doing a first thing with a first object;
 doing the first thing with a second object;
 ```
 
-## Second rule of sets – if using a set is required, then each thing in the set should have the same common properties or be part of the same steps
+## Second rule of sets
 
-Sets should be sets of common objects. Each object in a set should have common properties or be part of the same steps. Do not create ambiguity by using clumsy language like, "ones of a set"—ew.
+The second rule of sets: If using a set is required, then each thing in the set should have the same common properties or be part of the same steps
+Sets should be sets of common objects.
+
+Each object in a set should have common properties or be part of the same steps. Do not create ambiguity by using clumsy language like, "ones of a set"—*ew*.
 
 To refer to a subset of a set, instantiate a new noun phrase for the subset.  Although a subset can include all objects in a set, courts are usually made up of technically ignorant judges. So, use the `one or more` keyword phrase to instantiate a noun phrase to represent a subset of some or all of the objects in a set. The following is an example of using a set and a subset:
 
@@ -47,7 +50,7 @@ for each thing in the one or more first things, doing a first action;
 for each thing in the one or more second things, doing a second action;
 ```
 
-## Avoid using the word "respectively"
+### Banned: "respectively"
 
 A claim that uses a set often uses "respectively" haphazardly, and often incorrectly. If two sets are needed, and each object in a first set is related to a corresponding object in a second set, then consider doing the following:
 
@@ -63,9 +66,9 @@ A method comprising:
 ```
  
 
-## Iterative blocks
+## Iteration
 
-Iterating over a plurality of things leads to tricky claim language. When iterating over a set is required, perform the iteration with an iterative block. The following is an example of an iterative block that performs two actions on each object in a set:
+Iterating over a set leads to tricky claim language. When iterating over a set is required, perform the iteration with an iterative block. The following is an example of an iterative block that performs two actions on each object in a set:
 
 ``` claim
 for each thing among a plurality of things:
@@ -81,7 +84,7 @@ An iterative block may be a single line. For example, the following is an exampl
 for each thing among a plurality of things, doing an action with the thing; 
 ```
 
-## Scope and iterative blocks
+### Scope
 
 The keyword phrase `each`, unlike any of the other keyword phrases that instantiate a noun phrase, instantiates a noun phrase for an object only within the scope of the iterative block.  The following is an example that violates this rule.
 

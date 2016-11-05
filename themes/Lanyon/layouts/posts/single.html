@@ -22,10 +22,14 @@
 
       Finally we include the actual content of the post.
     -->
+
+    <section id="toc">
+    </section>
+
     <div class="container content">
       <h1 class="post-title">{{ .Title }}</h1>
         <section id="main">
-          <h5 id="date">
+          <p id="date">
             Created: {{ .Date.Format "Jan 2, 2006" }}{{ if .Lastmod }}{{ if not (eq .Lastmod .Date) }}; Modified: {{ .Lastmod.Format "Jan 2, 2006" }}{{ end }}{{ end }}.
           </h5>
 

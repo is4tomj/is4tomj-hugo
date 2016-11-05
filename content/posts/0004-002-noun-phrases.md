@@ -16,11 +16,11 @@ categories:
 
 {{< post-construction-header >}}
 
-## Noun phrases -- the building blocks of clear claim language
+## Noun phrases
 
-A noun phrase is a word or group of words that functions in a sentence as subject, object, or prepositional object. A noun phrase in a claim should be clearly defined so that future references to the noun phrase are easily recognized.
+Noun phrases are the building blocks of clear claim language. A noun phrase is a word or group of words that functions in a sentence as subject, object, or prepositional object. A noun phrase in a claim should be clearly defined so that future references to the noun phrase are easily recognized.
 
-### Instantiating a noun phrase
+## Instantiation
 
 A noun phrase should be instantiated only once in a claim using one keyword phrase among a set of instantiating keyword phrases:
 
@@ -43,7 +43,7 @@ The following are examples of instantiating a noun phrase with a keyword phrase 
 
 The `each` instantiating keyword phrase is a special keyword phrase that is discussed in [Sets and Iteration](/posts/sab-sets-and-iteration).
 
-### Referring to an instantiated noun phrase
+## Referencing
 
 Use the `the` keyword phrase to reference a noun phrase exactly as instantiated. The following are examples of referencing an instantiated noun phrase:
 
@@ -58,7 +58,7 @@ Use the `the` keyword phrase to reference a noun phrase exactly as instantiated.
 
 A noun phrase should not be referenced using a modifier, such as an adjective.  For example, if a claim includes `receiving a thing`, then `the thing` should __**not**__ be referenced as `the received thing` in the claim.
 
-### A noun phrase references an immutable object
+## Immutable objects
 
 A noun phrase references an object that is immutable. If the object is modified, then the object is a new object.  Accordingly, a new noun phrase should be instantiated to represent the new object.  The following is an example of assigning a new noun phrase to a modified object:
 
@@ -88,7 +88,7 @@ The following claim is free of antecedent basis errors by assigning a new noun p
    sending the second thing to a client computer.
 ``` 
 
-### Do not instantiate a new noun phrase for further characterization, clarification, or description of an underlying component.
+### Classification distinction
 
 Although a noun phrase represents an immutable object, a new noun phrase should not be instantiated when an object is merely further characterized, clarified, or described.  The following is an example of a noun phrase that represents an object that is further described after the noun phrase was instantiated.
 

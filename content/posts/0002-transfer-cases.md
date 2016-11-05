@@ -12,7 +12,7 @@ categories:
 
 How you transfer a case depends on whether the case is a pending application, an issued patent, or a PCT Application. Each of these cases is discussed below.
 
-## Transferring a Pending Applications or Provisional Applications (pending or expired)
+## Pending or Provisional Applications
 
 For a pending U.S. Patent Application or a provisional application (pending or expired), filed on or after September 16, 2012, where the assignee-applicant was named as the applicant when the application was filed, use [this form \(PTO/AIA/82\)](https://www.uspto.gov/sites/default/files/forms/aia0082.pdf).
 
@@ -22,12 +22,12 @@ Part A has fields that identify the application being transferred and includes a
 
 Part B identifies the assignee-applicant and requires the client's signature. A client can sign Part B once, and a copy of Part B can be attached to a copy of Part A for each patent application.
 
-## Transferring an Issued Application
+## Issued Applications
 
 For an issued U.S. Patent, filed on or after September 16, 2012, you must file two forms: [POA for issued patents \(PTO/AIA/81a\)] (https://www.uspto.gov/sites/default/files/documents/aia0081a.pdf) and a [37 CRF 3.73\(c\) Statement \(PTO/AIA/96\)](https://www.uspto.gov/sites/default/files/forms/aia0096.pdf) Statement.  If a 37 CRF 3.73\(c\) Statement has already been filed, then you can simply identify the 3.73\(c\) Statement; otherwise, a 3.73\(c\) Statement can be drafted and filed with the POA.
 
 
-## Transferring a PCT Application
+## PCT Applications
 
 Appointment of an agent for a PCT, filed on or after September 16, 2012, may be effected by referring, in a request, demand, or separate notice, to an existing separate POA appointing that agent to represent the applicant. See [MPEP 9025](https://www.uspto.gov/web/offices/pac/mpep/mpep-9025-appx-t.html#d0e377280).
 
