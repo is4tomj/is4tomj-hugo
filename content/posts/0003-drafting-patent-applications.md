@@ -10,6 +10,8 @@ categories:
     - "Critical Skill"
 ---
 
+{{< post-construction-header >}}
+
 ## Qualities
 
 A draft patent application should be easy for an inventor (and everyone else) to read.  A well-written specification includes lots of headings and subheadings, is written in active voice as much as possible, avoids pronouns, avoids jargon, uses terms consistently, fully supports the claims.
