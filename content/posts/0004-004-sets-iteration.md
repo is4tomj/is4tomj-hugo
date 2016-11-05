@@ -22,7 +22,7 @@ __**Attention**__: courts may construe a "set" of objects as two or more objects
 
 > A "set" may comprise zero, one, or two or more elements.
 
-## First rule of sets
+## First rule
 
 The first rule of sets is—__*do not use sets*__! Sets often create confusion. Do not use a set unless a set is required.
 
@@ -33,7 +33,7 @@ doing a first thing with a first object;
 doing the first thing with a second object;
 ```
 
-## Second rule of sets
+## Second rule
 
 The second rule of sets: If using a set is required, then each thing in the set should have the same common properties or be part of the same steps
 Sets should be sets of common objects.
