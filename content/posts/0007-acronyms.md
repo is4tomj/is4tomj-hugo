@@ -10,7 +10,7 @@ categories:
     - "Drafting"
 ---
 
-## DNUOPOHTRAITCOS: Do Not Use Obscure, Proprietary, Or Hard To Remember Acronyms In The Claims Or Specification
+*DNUOPOHTRAITCOS: Do Not Use Obscure, Proprietary, Or Hard To Remember Acronyms In The Claims Or Specification.*
 
 Do not use an acronym unless the acronym is more common than the underlying words. The same goes for an abbreviation.
 
